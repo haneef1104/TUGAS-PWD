@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff3e6;
+    padding: 40px;
+}
+
+.card {
+    background: #ffffff;
+    width: 430px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #cc6600;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 130px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+}
+
+p {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.label {
+    font-weight: bold;
+    width: 160px;
+    display: inline-block;
+}
